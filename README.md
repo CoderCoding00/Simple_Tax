@@ -15,3 +15,4 @@ The total tax on $27,500 is $3,767.50. For $6,000, the tax is $600. For $120,000
 
 # Screen Shot of the Test Output 
 
+<img width="556" alt="Simple_Tax" src="https://user-images.githubusercontent.com/107374333/213938758-51ebcc10-1e4c-427a-9af6-8348c6614d7b.png">
